@@ -1,4 +1,4 @@
-# Codsoft-Task-4
+# Rock-Paper-Scissors game with GUI using the tkinter library
 
 Rock-Paper-Scissors Game with GUI:
 
